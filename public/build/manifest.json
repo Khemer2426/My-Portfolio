@@ -60,7 +60,7 @@
     "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.eot"
   },
   "resources/fonts/simple-line-icons/Simple-Line-Icons.svg": {
-    "file": "assets/Simple-Line-Icons-BTnVYXrC.svg",
+    "file": "assets/Simple-Line-Icons-DsHGv33-.svg",
     "src": "resources/fonts/simple-line-icons/Simple-Line-Icons.svg"
   },
   "resources/fonts/simple-line-icons/Simple-Line-Icons.ttf": {
@@ -100,9 +100,15 @@
     "isEntry": true
   },
   "resources/js/oneui/app.js": {
-    "file": "assets/app-8BGDvMcq.js",
+    "file": "assets/app-DCTRdHqd.js",
     "name": "app",
     "src": "resources/js/oneui/app.js",
+    "isEntry": true
+  },
+  "resources/js/pages/users/accounts-profile.js": {
+    "file": "assets/accounts-profile-B5oSuccH.js",
+    "name": "accounts-profile",
+    "src": "resources/js/pages/users/accounts-profile.js",
     "isEntry": true
   },
   "resources/js/pages/users/edit.user.js": {
@@ -123,8 +129,20 @@
       "_jsRequest-PPrO_w82.js"
     ]
   },
+  "resources/js/password-toggle.js": {
+    "file": "assets/password-toggle-SvtC_Dqn.js",
+    "name": "password-toggle",
+    "src": "resources/js/password-toggle.js",
+    "isEntry": true
+  },
+  "resources/js/tfa-notification.js": {
+    "file": "assets/tfa-notification-BQRVuXbv.js",
+    "name": "tfa-notification",
+    "src": "resources/js/tfa-notification.js",
+    "isEntry": true
+  },
   "resources/sass/main.scss": {
-    "file": "assets/main-UaG21Yso.css",
+    "file": "assets/main-BNZAMDpI.css",
     "src": "resources/sass/main.scss",
     "isEntry": true
   },
