@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "public/build",
   "builds": [
     {
       "src": "public/index.php",
@@ -9,7 +11,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/public/index.php"
+      "dest": "public/index.php"
     }
   ]
 }
