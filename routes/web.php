@@ -14,8 +14,14 @@ use App\Http\Controllers\SchoolYearController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\ViewSchoolController;
 
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+
 Route::group(['middleware' => ['guest']], function () {
-    Route::get('/', [LoginController::class, 'loginForm']);
+    Route::get('/', function () {
+        return view('portfolio');
+    });
     Route::get('/login', [LoginController::class, 'loginForm'])->name('login.form');
     Route::post('/login', [LoginController::class, 'login'])->name('login');
 });
