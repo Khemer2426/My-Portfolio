@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "framework": null,
   "builds": [
     {
       "src": "public/index.php",
@@ -9,7 +8,8 @@
   ],
   "routes": [
     {
-      "handle": "filesystem"
+      "src": "/media/(.*)",
+      "dest": "/public/media/$1"
     },
     {
       "src": "/(.*)",
