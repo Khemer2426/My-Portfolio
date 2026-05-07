@@ -18,10 +18,15 @@ Route::get('/portfolio', function () {
     return view('portfolio');
 });
 
+Route::get('/vercel-health', function () {
+    return response('ok', 200);
+});
+
+Route::get('/', function () {
+    return view('portfolio');
+});
+
 Route::group(['middleware' => ['guest']], function () {
-    Route::get('/', function () {
-        return view('portfolio');
-    });
     Route::get('/login', [LoginController::class, 'loginForm'])->name('login.form');
     Route::post('/login', [LoginController::class, 'login'])->name('login');
 });
