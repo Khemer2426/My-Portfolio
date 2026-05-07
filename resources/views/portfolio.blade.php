@@ -356,17 +356,26 @@
         <div class="container">
             <h2 class="text-center mb-5">About Me</h2>
             <div class="row align-items-center">
-                <div class="col-md-5 text-center mb-4 mb-md-0">
+                {{-- <div class="col-md-5 text-center mb-4 mb-md-0">
                     <img src="/media/my-portfolio/KHEMER JAY DEGUINION.jpeg" alt="Profile Picture" class="profile-img">
-                </div>
-                <div class="col-md-7">
-                    <p style="font-size: 1.1rem; color: #555; line-height: 1.8; margin-bottom: 20px;">I am a WordPress and Laravel Developer who builds clean, responsive, and user-friendly websites and web applications.</p>
-                    <p style="font-size: 1.1rem; color: #555; line-height: 1.8;">I have experience with custom WordPress themes, plugin integration, Laravel systems, real estate websites, e-commerce platforms, and government projects.</p>
+                </div> --}}
+                <div class="col-md-12">
+                    <p style="font-size: 1.1rem; color: #555; line-height: 1.8; margin-bottom: 20px;">
+                        I am a passionate WordPress and Laravel Developer with experience in building clean, responsive, and user-friendly websites and web applications. I enjoy creating modern digital solutions that are both visually appealing and functional, ensuring smooth performance and a great user experience across all devices. I am dedicated to writing organized and maintainable code while continuously improving my skills in web development and learning new technologies.
+                    </p>
+
+                    <p style="font-size: 1.1rem; color: #555; line-height: 1.8; margin-bottom: 20px;">
+                        I have experience working with custom WordPress themes, plugin integration, Laravel-based systems, real estate websites, e-commerce platforms, and government projects. My background includes both front-end and back-end development, allowing me to handle website design, functionality, database management, API integration, and system customization. I am also experienced in maintaining and optimizing websites to improve speed, security, and overall performance.
+                    </p>
+
+                    <p style="font-size: 1.1rem; color: #555; line-height: 1.8;">
+                        Throughout my projects, I have collaborated with teams using tools such as Git, SourceTree, Slack, and Visual Studio Code to ensure efficient development workflows and successful project delivery. I am passionate about transforming ideas into practical and reliable web solutions that meet client and user needs. I always aim to deliver high-quality work, pay attention to detail, and stay updated with the latest trends and best practices in WordPress, Laravel, and modern web development.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
-
+{{-- 
     <section id="workspace" class="section">
         <div class="container">
             <h2 class="text-center mb-5">Workspace Setup</h2>
@@ -376,7 +385,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section id="skills" class="section">
         <div class="container">
@@ -491,7 +500,7 @@
             <div class="row g-4">
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/nicheave.png" class="card-img-top" alt="NicheAve">
+                        {{-- <img src="/media/my-portfolio/projects/nicheave.png" class="card-img-top" alt="NicheAve"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-home" style="margin-right: 8px; color: #667eea;"></i>NicheAve</h5>
                             <p class="card-text">Real Estate Website - Custom WordPress theme with advanced property listings and search functionality.</p>
@@ -501,7 +510,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/excel-homes.png" class="card-img-top" alt="Excel Homes">
+                        {{-- <img src="/media/my-portfolio/projects/excel-homes.png" class="card-img-top" alt="Excel Homes"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-building" style="margin-right: 8px; color: #667eea;"></i>Excel Homes</h5>
                             <p class="card-text">Real Estate Website - Responsive design with property showcase and lead generation features.</p>
@@ -511,7 +520,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/memo.png" class="card-img-top" alt="Memo">
+                        {{-- <img src="/media/my-portfolio/projects/memo.png" class="card-img-top" alt="Memo"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-shopping-cart" style="margin-right: 8px; color: #667eea;"></i>Memo</h5>
                             <p class="card-text">E-commerce Website - Full-featured online store with product catalog and shopping cart.</p>
@@ -521,7 +530,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/ben-estates.png" class="card-img-top" alt="Ben Estates">
+                        {{-- <img src="/media/my-portfolio/projects/ben-estates.png" class="card-img-top" alt="Ben Estates"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-landmark" style="margin-right: 8px; color: #667eea;"></i>Ben Estates</h5>
                             <p class="card-text">Real Estate Website - Premium listing platform with advanced filtering and property details.</p>
@@ -531,7 +540,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/fit-fuel.png" class="card-img-top" alt="Fit Fuel">
+                        {{-- <img src="/media/my-portfolio/projects/fit-fuel.png" class="card-img-top" alt="Fit Fuel"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-dumbbell" style="margin-right: 8px; color: #667eea;"></i>Fit Fuel</h5>
                             <p class="card-text">E-commerce Website - Health and fitness products store with subscription options.</p>
@@ -541,7 +550,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/agriculture-gov.png" class="card-img-top" alt="Agriculture Gov">
+                        {{-- <img src="/media/my-portfolio/projects/agriculture-gov.png" class="card-img-top" alt="Agriculture Gov"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-leaf" style="margin-right: 8px; color: #667eea;"></i>Agriculture Gov</h5>
                             <p class="card-text">Government Website - Custom theme for Government of Malta with advanced functionality.</p>
@@ -551,7 +560,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/curriculum.png" class="card-img-top" alt="Curriculum">
+                        {{-- <img src="/media/my-portfolio/projects/curriculum.png" class="card-img-top" alt="Curriculum"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-book-open" style="margin-right: 8px; color: #667eea;"></i>Curriculum</h5>
                             <p class="card-text">Government education website focused on curriculum resources and public information.</p>
@@ -561,7 +570,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/pixel-for-the-soul.png" class="card-img-top" alt="Pixel for the Soul">
+                        {{-- <img src="/media/my-portfolio/projects/pixel-for-the-soul.png" class="card-img-top" alt="Pixel for the Soul"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-palette" style="margin-right: 8px; color: #667eea;"></i>Pixel for the Soul</h5>
                             <p class="card-text">Creative website showcasing visual content with a polished, responsive user experience.</p>
@@ -571,7 +580,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/bason-aluminium.png" class="card-img-top" alt="Bason Aluminium">
+                        {{-- <img src="/media/my-portfolio/projects/bason-aluminium.png" class="card-img-top" alt="Bason Aluminium"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-industry" style="margin-right: 8px; color: #667eea;"></i>Bason Aluminium</h5>
                             <p class="card-text">Business website for aluminium services, built to present products and company details clearly.</p>
@@ -581,7 +590,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/opm.png" class="card-img-top" alt="OPM">
+                        {{-- <img src="/media/my-portfolio/projects/opm.png" class="card-img-top" alt="OPM"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-landmark" style="margin-right: 8px; color: #667eea;"></i>OPM</h5>
                             <p class="card-text">Government website for official public updates, institutional information, and services.</p>
@@ -591,7 +600,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/public-service.png" class="card-img-top" alt="Public Service">
+                        {{-- <img src="/media/my-portfolio/projects/public-service.png" class="card-img-top" alt="Public Service"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-users" style="margin-right: 8px; color: #667eea;"></i>Public Service</h5>
                             <p class="card-text">Government service portal designed for accessible information and public-sector communication.</p>
@@ -601,7 +610,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/lifelong-learning.png" class="card-img-top" alt="Lifelong Learning">
+                        {{-- <img src="/media/my-portfolio/projects/lifelong-learning.png" class="card-img-top" alt="Lifelong Learning"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-graduation-cap" style="margin-right: 8px; color: #667eea;"></i>Lifelong Learning</h5>
                             <p class="card-text">Education website supporting learning programs, course information, and public resources.</p>
@@ -611,7 +620,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/ntg.png" class="card-img-top" alt="NTG">
+                        {{-- <img src="/media/my-portfolio/projects/ntg.png" class="card-img-top" alt="NTG"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-network-wired" style="margin-right: 8px; color: #667eea;"></i>NTG</h5>
                             <p class="card-text">Government platform built to organize key information and make public content easier to access.</p>
@@ -621,7 +630,7 @@
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="/media/my-portfolio/projects/non-state-school.png" class="card-img-top" alt="Non State School">
+                        {{-- <img src="/media/my-portfolio/projects/non-state-school.png" class="card-img-top" alt="Non State School"> --}}
                         <div class="card-body">
                             <h5 class="card-title"><i class="fab fa-laravel" style="margin-right: 8px; color: #667eea;"></i>Non State School</h5>
                             <p class="card-text">Laravel project for education services and non-state school information management.</p>
