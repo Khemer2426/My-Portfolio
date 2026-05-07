@@ -6,6 +6,9 @@
     { "src": "api/index.php", "use": "vercel-php@0.7.4" }
   ],
   "routes": [
+    {
+      "handle": "filesystem"
+    },
     { "src": "/(.*)", "dest": "/api/index.php" }
   ],
   "env": {
