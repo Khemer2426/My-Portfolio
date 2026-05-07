@@ -10,7 +10,7 @@
   "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "false",
-    "APP_URL": "https://your-url.vercel.app",
+    "APP_URL": "khemer-jay-deguinion.vercel.app",
     "APP_KEY": "your-app-key",
     "LOG_CHANNEL": "stderr",
     "CACHE_DRIVER": "array",
