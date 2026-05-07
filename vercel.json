@@ -1,18 +1,15 @@
 {
   "version": 2,
+  "builds": [
+    {
+      "src": "public/index.php",
+      "use": "vercel-php"
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/api/index.php"
+      "dest": "public/index.php"
     }
-  ],
-  "env": {
-    "APP_ENV": "production",
-    "APP_DEBUG": "false",
-    "APP_URL": "khemer-jay-deguinion.vercel.app",
-    "APP_KEY": "your-app-key",
-    "LOG_CHANNEL": "stderr",
-    "CACHE_DRIVER": "array",
-    "SESSION_DRIVER": "cookie"
-  }
+  ]
 }
