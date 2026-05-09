@@ -403,43 +403,55 @@
                     <div class="mb-4">
                         <div class="skill-label">
                             <strong>PHP</strong>
-                            <span class="skill-percentage">90%</span>
+                            <span class="skill-percentage">94%</span>
                         </div>
-                        <div class="skill-bar"><div class="skill-fill" style="width: 90%;"></div></div>
+                        <div class="skill-bar"><div class="skill-fill" style="width: 94%;"></div></div>
                     </div>
                     <div class="mb-4">
                         <div class="skill-label">
                             <strong>HTML/CSS</strong>
-                            <span class="skill-percentage">92%</span>
+                            <span class="skill-percentage">97%</span>
                         </div>
-                        <div class="skill-bar"><div class="skill-fill" style="width: 92%;"></div></div>
+                        <div class="skill-bar"><div class="skill-fill" style="width: 97%;"></div></div>
                     </div>
                     <div class="mb-4">
                         <div class="skill-label">
                             <strong>JavaScript/jQuery</strong>
-                            <span class="skill-percentage">85%</span>
+                            <span class="skill-percentage">88%</span>
                         </div>
-                        <div class="skill-bar"><div class="skill-fill" style="width: 85%;"></div></div>
+                        <div class="skill-bar"><div class="skill-fill" style="width: 88%;"></div></div>
                     </div>
                     <div class="mb-4">
                         <div class="skill-label">
                             <strong>Laravel</strong>
-                            <span class="skill-percentage">85%</span>
+                            <span class="skill-percentage">94%</span>
                         </div>
-                        <div class="skill-bar"><div class="skill-fill" style="width: 85%;"></div></div>
+                        <div class="skill-bar"><div class="skill-fill" style="width: 94%;"></div></div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <h4 style="font-weight: 700; color: #333; margin-bottom: 30px;"><i class="fas fa-star" style="color: #667eea; margin-right: 10px;"></i>Expertise</h4>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>WordPress Development</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Laravel Framework</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>REST API Integration</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Plugins Setup</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Custom Theme Development</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Elementor Builder</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Gutenberg Block Editor</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Shortcodes</div>
-                    <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Responsive Design</div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>WordPress Development</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Laravel Framework</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Git-based workflow</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>REST API Integration</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Github</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Plugins Setup</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Custom Theme Development</div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>ACF</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Elementor Builder</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Gutenberg Block Editor</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Shortcodes</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Responsive Design</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Asure</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
