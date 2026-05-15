@@ -434,6 +434,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6">
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Cloud AI & Codex</div>
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>WordPress Development</div>
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Laravel Framework</div>
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Git-based workflow</div>
