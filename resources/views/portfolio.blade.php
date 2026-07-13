@@ -347,7 +347,7 @@
     <section class="hero text-center">
         <div class="container">
             <h1 class="display-4">Hi, I'm Khemer Jay Deguinion</h1>
-            <p class="lead">WordPress Developer & Laravel Specialist</p>
+            <p class="lead">WordPress, React JS & Laravel Developer</p>
             <a href="#contact" class="btn btn-light btn-lg">Get In Touch</a>
         </div>
     </section>
@@ -361,7 +361,7 @@
                 </div> --}}
                 <div class="col-md-12">
                     <p style="font-size: 1.1rem; color: #555; line-height: 1.8; margin-bottom: 20px;">
-                        I am a passionate WordPress and Laravel Developer with experience in building clean, responsive, and user-friendly websites and web applications. I enjoy creating modern digital solutions that are both visually appealing and functional, ensuring smooth performance and a great user experience across all devices. I am dedicated to writing organized and maintainable code while continuously improving my skills in web development and learning new technologies.
+                        I am a passionate WordPress, React JS & Laravel Developer with experience in building clean, responsive, and user-friendly websites and web applications. I enjoy creating modern digital solutions that are both visually appealing and functional, ensuring smooth performance and a great user experience across all devices. I am dedicated to writing organized and maintainable code while continuously improving my skills in web development and learning new technologies.
                     </p>
 
                     <p style="font-size: 1.1rem; color: #555; line-height: 1.8; margin-bottom: 20px;">
@@ -496,9 +496,9 @@
                             </div>
                             <div style="flex: 1;">
                                 <h5>Born Digital</h5>
-                                <div class="job-title">Laravel Developer</div>
+                                <div class="job-title">React & Laravel Developer</div>
                                 <div class="job-dates"><i class="fas fa-calendar" style="margin-right: 8px; color: #667eea;"></i>June 2022 - Present</div>
-                                <p>Specialized in Laravel development, focusing on creating robust and scalable web applications. Explored the latest features of the Laravel framework and utilized its powerful tools to build efficient and maintainable code. Collaborated with cross-functional teams to deliver high-quality software solutions that meet client requirements and enhance user experience.</p>
+                                <p>Specialized in React & Laravel development, focusing on creating robust and scalable web applications. Explored the latest features of the Laravel framework and utilized its powerful tools to build efficient and maintainable code. Collaborated with cross-functional teams to deliver high-quality software solutions that meet client requirements and enhance user experience.</p>
                             </div>
                         </div>
                     </div>
