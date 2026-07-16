@@ -449,7 +449,7 @@
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Gutenberg Block Editor</div>
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Shortcodes</div>
                                 <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Responsive Design</div>
-                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Asure</div>
+                                <div class="expertise-item"><i class="fas fa-check-circle" style="color: #667eea; margin-right: 10px;"></i>Vercel</div>
                             </div>
                         </div>
                     </div>
